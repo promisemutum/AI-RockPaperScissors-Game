@@ -1,6 +1,6 @@
 #a game between two computers
+#human vs computer will be added soon
 import random
-
 redcount = 0
 bluecount = 0
 turns = int(input("Enter the number of rounds: "))
